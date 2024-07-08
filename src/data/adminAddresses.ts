@@ -1,0 +1,1 @@
+export const adminAddresses = ["parmeet2311", "ps7"];
